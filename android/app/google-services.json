@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572070839275",
+    "project_id": "mobx-b6df6",
+    "storage_bucket": "mobx-b6df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572070839275:android:b6df2acb5fe25e0d88cfae",
+        "android_client_info": {
+          "package_name": "com.example.mobx_state_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572070839275-fhgajncrqdegi86d1pmqlf2ug8d4srhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKfK9tBtUAaI6EOakOltw9SPU8s8tfBAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572070839275-fhgajncrqdegi86d1pmqlf2ug8d4srhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
